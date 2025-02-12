@@ -1,7 +1,1 @@
-title: "My Fieldwork Project"
-description: "Exploring Spatial Variability in Plant Water Use in a Dryland Ecosystem"
-baseurl: ""         # For a user/organization site, keep this empty.
-url: "https://your-username.github.io"  # Replace with your actual site URL.
-
-# Use the remote theme for Yat. Replace with the correct repository and tag.
-remote_theme: your-theme-author/jekyll-theme-yat@v1.0.0
+theme: jekyll-theme-minimal
